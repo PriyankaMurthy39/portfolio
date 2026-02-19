@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository.
 This website showcases my projects, skills, and contact information.
 
 ## 🌐 Live Website
-👉 https://yourusername.github.io/portfolio/
+👉 https://priyankamurthy39.github.io/portfolio/
 
 ---
 
